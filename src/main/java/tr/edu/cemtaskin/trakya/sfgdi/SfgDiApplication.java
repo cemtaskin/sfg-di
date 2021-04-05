@@ -2,6 +2,7 @@ package tr.edu.cemtaskin.trakya.sfgdi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import tr.edu.cemtaskin.trakya.sfgdi.controllers.MyController;
 
 @SpringBootApplication
 public class SfgDiApplication {

@@ -1,4 +1,4 @@
-package tr.edu.cemtaskin.trakya.sfgdi;
+package tr.edu.cemtaskin.trakya.sfgdi.controllers;
 
 import org.springframework.stereotype.Controller;
 
